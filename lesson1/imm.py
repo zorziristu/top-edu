@@ -23,8 +23,7 @@ elif m > x:
     d = m - x
     for j in range(d):
         s.append(-1)
-# else:
-#    pass - нечего не делать
+
 
 t = s + s1
 print(t)
